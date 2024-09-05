@@ -121,3 +121,7 @@ work_dirs/
 *.pth
 *.py~
 *.sh~
+
+# Demo configs, installation verification
+demo_configs/
+outputs/
